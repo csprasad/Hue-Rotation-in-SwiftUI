@@ -20,35 +20,6 @@ struct SwiftUIView_Previews: PreviewProvider {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 struct FinalView: View {
     @State private var changeColor = false
     var body: some View {
